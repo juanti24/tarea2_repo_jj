@@ -1,2 +1,2 @@
 # tarea2_repo_jj
-Deber nÃºmero dos 
+Tarea N°2
